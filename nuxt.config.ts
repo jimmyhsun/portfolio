@@ -13,21 +13,17 @@ export default defineNuxtConfig({
     compatibilityVersion: 4,
   },
 
-  // GitHub Pages base URL (uncomment and set your repo name when deploying)
+  // App Configuration (including GitHub Pages base URL)
   app: {
-    baseURL: '/portfolio/', // Replace 'portfolio' with your repo name
-  },
-
-  // Modules
-  modules: ['@nuxtjs/tailwindcss', '@pinia/nuxt', '@nuxtjs/i18n'],
-
-  // App Configuration
-  app: {
+    baseURL: '/portfolio/',
     head: {
       charset: 'utf-8',
       viewport: 'width=device-width, initial-scale=1',
     },
   },
+
+  // Modules
+  modules: ['@nuxtjs/tailwindcss', '@pinia/nuxt', '@nuxtjs/i18n'],
 
   // i18n Configuration
   i18n: {
