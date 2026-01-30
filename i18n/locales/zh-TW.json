@@ -1,0 +1,82 @@
+{
+  "nav": {
+    "about": "關於我",
+    "skills": "技術能力",
+    "projects": "專案作品",
+    "contact": "聯絡我"
+  },
+  "hero": {
+    "available": "目前可接案",
+    "greeting": "嗨，我是",
+    "title": "資深全端架構師",
+    "tagline": "打造驅動商業成長的可擴展系統",
+    "viewWork": "查看作品",
+    "getInTouch": "聯絡我",
+    "experience": "4+ 年經驗",
+    "projects": "50+ 專案交付",
+    "remote": "全球遠端服務"
+  },
+  "about": {
+    "badge": "關於我",
+    "title": "將複雜問題轉化為優雅解決方案",
+    "bio1": "擁有超過4年的軟體架構經驗，我專注於打造穩健、可擴展的解決方案，將複雜的商業需求轉化為優雅的技術實現。我的專業涵蓋前端框架到雲端基礎架構，能夠提供端到端的完整解決方案。",
+    "bio2": "我曾幫助新創公司從 MVP 擴展到數百萬使用者，也協助企業將老舊系統現代化。無論是建構高效能網頁應用、設計微服務架構，還是優化雲端基礎設施——我都以同樣的專注和專業態度對待每個專案。",
+    "stats": {
+      "years": "年經驗",
+      "projects": "專案交付",
+      "clients": "滿意客戶",
+      "satisfaction": "客戶滿意度"
+    }
+  },
+  "skills": {
+    "badge": "技術專長",
+    "title": "全端開發能力",
+    "subtitle": "涵蓋前端框架、後端技術與雲端基礎架構的完整技術棧。",
+    "proficiency": "熟練度",
+    "categories": {
+      "frontend": "前端開發",
+      "backend": "後端開發",
+      "cloud": "雲端與 DevOps"
+    }
+  },
+  "projects": {
+    "badge": "案例研究",
+    "title": "精選專案",
+    "subtitle": "帶來可衡量商業影響的真實解決方案。",
+    "featured": "精選",
+    "problem": "問題",
+    "solution": "解決方案",
+    "techStack": "技術棧",
+    "viewLive": "線上預覽",
+    "source": "原始碼",
+    "private": "私人專案",
+    "viewAll": "查看所有專案",
+    "items": {
+      "ecommerce-platform": {
+        "title": "企業級電商平台",
+        "problem": "一家零售公司的老舊單體系統無法承受促銷活動期間的流量高峰，導致每年損失超過 200 萬美元的營收。",
+        "solution": "設計了基於微服務的架構，使用 Nuxt 3 建構 SSR 前台、NestJS 開發 API，並搭配具有自動擴展功能的 AWS 基礎設施。達成 99.99% 的正常運行時間，頁面載入速度提升 3 倍。"
+      },
+      "saas-dashboard": {
+        "title": "即時數據分析儀表板",
+        "problem": "一家 SaaS 新創公司需要一個即時分析儀表板，能夠每天處理數百萬個事件，同時維持亞秒級的查詢效能。",
+        "solution": "使用 Vue 3 建構儀表板，整合 WebSocket 實現即時更新，後端採用 Python 資料管道，使用 Apache Kafka 和 ClickHouse 進行分析資料儲存。"
+      },
+      "fintech-api": {
+        "title": "支付處理 API",
+        "problem": "一家金融科技公司需要符合 PCI 標準的支付處理 API，能夠處理大量交易並滿足嚴格的安全要求。",
+        "solution": "使用 NestJS 設計安全的 API 閘道，具備完整的加密機制、稽核日誌和速率限制功能。使用 Docker 容器化，並部署在具有多區域故障轉移的 AWS 上。"
+      }
+    }
+  },
+  "contact": {
+    "badge": "聯繫我",
+    "title": "準備好一起打造精彩專案了嗎？",
+    "subtitle": "我目前正在接受新專案。讓我們討論如何透過可擴展、生產就緒的解決方案，將您的願景化為現實。",
+    "cta": "開始對話"
+  },
+  "footer": {
+    "tagline": "逐步建構未來，一次一個系統。",
+    "rights": "版權所有。"
+  }
+}

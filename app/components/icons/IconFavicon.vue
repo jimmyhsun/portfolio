@@ -1,0 +1,59 @@
+<template>
+  <svg 
+    :class="props.class" 
+    viewBox="0 0 32 32" 
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <!-- Jimmy's Logo - J with code brackets -->
+    <defs>
+      <linearGradient id="faviconGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" style="stop-color:#4F46E5"/>
+        <stop offset="100%" style="stop-color:#7C3AED"/>
+      </linearGradient>
+    </defs>
+    
+    <!-- Background -->
+    <rect width="32" height="32" rx="8" fill="url(#faviconGradient)"/>
+    
+    <!-- Letter J -->
+    <path 
+      d="M18 8v12c0 2.5-1.5 4-4 4s-4-1.5-4-4" 
+      stroke="white" 
+      stroke-width="3" 
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      fill="none"
+    />
+    
+    <!-- Code brackets -->
+    <path 
+      d="M8 11l-2 5 2 5" 
+      stroke="white" 
+      stroke-width="1.5" 
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      fill="none"
+      opacity="0.6"
+    />
+    <path 
+      d="M24 11l2 5-2 5" 
+      stroke="white" 
+      stroke-width="1.5" 
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      fill="none"
+      opacity="0.6"
+    />
+  </svg>
+</template>
+
+<script setup lang="ts">
+interface Props {
+  class?: string
+}
+
+const props = withDefaults(defineProps<Props>(), {
+  class: 'w-8 h-8'
+})
+</script>

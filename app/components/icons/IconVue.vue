@@ -1,0 +1,26 @@
+<template>
+  <svg
+    :class="props.class"
+    viewBox="0 0 128 128"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path
+      fill="#42b883"
+      d="M78.8,10L64,35.4L49.2,10H0l64,110l64-110C128,10,78.8,10,78.8,10z"
+    />
+    <path
+      fill="#35495e"
+      d="M78.8,10L64,35.4L49.2,10H25.6L64,76l38.4-66H78.8z"
+    />
+  </svg>
+</template>
+
+<script setup lang="ts">
+interface Props {
+  class?: string
+}
+
+const props = withDefaults(defineProps<Props>(), {
+  class: 'w-6 h-6'
+})
+</script>

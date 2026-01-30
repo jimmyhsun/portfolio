@@ -1,0 +1,82 @@
+{
+  "nav": {
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "contact": "Let's Talk"
+  },
+  "hero": {
+    "available": "Available for Projects",
+    "greeting": "Hi, I'm",
+    "title": "Senior Full-Stack Architect",
+    "tagline": "Building scalable systems that drive business growth",
+    "viewWork": "View My Work",
+    "getInTouch": "Get in Touch",
+    "experience": "4+ Years Experience",
+    "projects": "50+ Projects Delivered",
+    "remote": "Remote Worldwide"
+  },
+  "about": {
+    "badge": "About Me",
+    "title": "Turning Complex Problems into Elegant Solutions",
+    "bio1": "With over 4 years of experience in software architecture, I specialize in creating robust, scalable solutions that transform complex business requirements into elegant technical implementations. My expertise spans from frontend frameworks to cloud infrastructure, enabling me to deliver end-to-end solutions.",
+    "bio2": "I've helped startups scale from MVP to millions of users, and assisted enterprises in modernizing their legacy systems. Whether it's building performant web applications, designing microservices architectures, or optimizing cloud infrastructure—I bring the same level of dedication and expertise to every project.",
+    "stats": {
+      "years": "Years Experience",
+      "projects": "Projects Delivered",
+      "clients": "Happy Clients",
+      "satisfaction": "Client Satisfaction"
+    }
+  },
+  "skills": {
+    "badge": "Technical Expertise",
+    "title": "Full-Stack Capabilities",
+    "subtitle": "A comprehensive skill set spanning frontend frameworks, backend technologies, and cloud infrastructure.",
+    "proficiency": "Proficiency",
+    "categories": {
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "cloud": "Cloud & DevOps"
+    }
+  },
+  "projects": {
+    "badge": "Case Studies",
+    "title": "Featured Projects",
+    "subtitle": "Real-world solutions that delivered measurable business impact.",
+    "featured": "Featured",
+    "problem": "Problem",
+    "solution": "Solution",
+    "techStack": "Tech Stack",
+    "viewLive": "View Live",
+    "source": "Source",
+    "private": "Private Project",
+    "viewAll": "View All Projects",
+    "items": {
+      "ecommerce-platform": {
+        "title": "Enterprise E-Commerce Platform",
+        "problem": "A retail company struggled with their legacy monolithic system that couldn't handle peak traffic during sales events, resulting in $2M+ in lost revenue annually.",
+        "solution": "Architected a microservices-based platform using Nuxt 3 for SSR storefront, NestJS for APIs, and AWS infrastructure with auto-scaling. Achieved 99.99% uptime and 3x improvement in page load speeds."
+      },
+      "saas-dashboard": {
+        "title": "Real-Time Analytics Dashboard",
+        "problem": "A SaaS startup needed a real-time analytics dashboard that could process millions of events per day while maintaining sub-second query performance.",
+        "solution": "Built a Vue 3 dashboard with WebSocket integration for live updates, backed by a Python data pipeline using Apache Kafka and ClickHouse for analytics storage."
+      },
+      "fintech-api": {
+        "title": "Payment Processing API",
+        "problem": "A fintech company required a PCI-compliant payment processing API that could handle high transaction volumes with strict security requirements.",
+        "solution": "Designed a secure API gateway using NestJS with comprehensive encryption, audit logging, and rate limiting. Containerized with Docker and deployed on AWS with multi-region failover."
+      }
+    }
+  },
+  "contact": {
+    "badge": "Let's Connect",
+    "title": "Ready to Build Something Amazing?",
+    "subtitle": "I'm currently accepting new projects. Let's discuss how I can help bring your vision to life with scalable, production-ready solutions.",
+    "cta": "Let's Talk"
+  },
+  "footer": {
+    "tagline": "Building the future, one system at a time.",
+    "rights": "All rights reserved."
+  }
+}
