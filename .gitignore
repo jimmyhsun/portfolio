@@ -13,6 +13,7 @@ dist/
 !.env.example
 
 # IDE
+.vscode/
 .idea/
 *.sublime-*
 

@@ -43,16 +43,16 @@ A modern, responsive portfolio website built with cutting-edge technologies to s
 
 ## 🏗️ Tech Stack
 
-| Category            | Technologies                |
-| ------------------- | --------------------------- |
-| **Framework**       | Nuxt 3, Vue 3               |
-| **Language**        | TypeScript                  |
-| **Styling**         | Tailwind CSS, CSS Variables |
-| **State**           | Pinia                       |
-| **i18n**            | @nuxtjs/i18n                |
-| **Icons**           | Custom SVG Components       |
-| **Build**           | Vite                        |
-| **Package Manager** | pnpm                        |
+| Category            | Technologies                     |
+| ------------------- | -------------------------------- |
+| **Framework**       | Nuxt 3 (Vue 3 based)             |
+| **Language**        | TypeScript                       |
+| **Styling**         | Tailwind CSS, CSS Variables      |
+| **State**           | Pinia                            |
+| **i18n**            | @nuxtjs/i18n                     |
+| **Icons**           | Custom SVG Components            |
+| **Deployment**      | GitHub Pages (Static Generation) |
+| **Package Manager** | pnpm                             |
 
 ## 📁 Project Structure
 
