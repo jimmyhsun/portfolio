@@ -1,6 +1,6 @@
 # Jimmy 個人作品集網站
 
-> 🌐 **網站連結**: [https://your-domain.com](https://your-domain.com)
+> 🌐 **網站連結**: [https://jimmyhsun.github.io/portfolio/](https://jimmyhsun.github.io/portfolio/)
 
 <p align="right">
   <a href="./README.en.md">English Version</a>
@@ -138,7 +138,7 @@ pnpm build
 歡迎聯繫討論合作機會：
 
 - 📧 Email: jimmywu0916@gmail.com
-- 🐙 GitHub: [github.com/yourprofile](https://github.com/yourprofile)
+- 🐙 GitHub: [github.com/jimmyhsun/portfolio](https://github.com/jimmyhsun/portfolio)
 - 📍 地點: 台灣台北
 
 ## 📄 授權

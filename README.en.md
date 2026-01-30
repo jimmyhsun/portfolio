@@ -1,6 +1,6 @@
 # Jimmy's Portfolio Website
 
-> 🌐 **Live Demo**: [https://your-domain.com](https://your-domain.com)
+> 🌐 **Live Demo**: [https://jimmyhsun.github.io/portfolio/](https://jimmyhsun.github.io/portfolio/)
 
 <p align="right">
   <a href="./README.md">中文版</a>
@@ -138,7 +138,7 @@ This project showcases proficiency in:
 Feel free to reach out for collaboration or opportunities:
 
 - 📧 Email: jimmywu0916@gmail.com
-- 🐙 GitHub: [github.com/yourprofile](https://github.com/yourprofile)
+- 🐙 GitHub: [github.com/jimmyhsun/portfolio](https://github.com/jimmyhsun/portfolio)
 - 📍 Location: Taiwan, Taipei
 
 ## 📄 License

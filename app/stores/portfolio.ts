@@ -48,7 +48,7 @@ export const usePortfolioStore = defineStore('portfolio', () => {
     location: '台灣台北 / Taiwan, Taipei',
     availability: 'available',
     social: {
-      github: 'https://github.com/yourprofile',
+      github: 'https://github.com/jimmyhsun/portfolio',
     },
   })
 
