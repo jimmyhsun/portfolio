@@ -14,9 +14,9 @@ export default defineNuxtConfig({
   },
 
   // GitHub Pages base URL (uncomment and set your repo name when deploying)
-  // app: {
-  //   baseURL: '/portfolio/', // Replace 'portfolio' with your repo name
-  // },
+  app: {
+    baseURL: '/portfolio/', // Replace 'portfolio' with your repo name
+  },
 
   // Modules
   modules: ['@nuxtjs/tailwindcss', '@pinia/nuxt', '@nuxtjs/i18n'],
